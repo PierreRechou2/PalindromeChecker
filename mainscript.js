@@ -38,6 +38,6 @@ result.classList.remove('hide');
 checkButton.onclick= checkPalindrome;
 textToCheck.addEventListener("keydown", (e)=>{
   if (e.key === "Enter") {
-    checkerPalindrome();
+    checkPalindrome();
   }
 });
