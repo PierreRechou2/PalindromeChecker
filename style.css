@@ -1,0 +1,53 @@
+body{
+  background-color: #0263a8;
+  color:#ebd775;
+}
+
+h1{
+  text-align:center;
+  margin-top: 10vh;
+  font-family:Verdana, sans-serif;
+}
+
+.checker-box{
+  text-align:center;
+  margin-top: 10vh;
+  font-family:sans-serif;
+  font-size: 1.3rem;
+}
+
+.checker-box input{
+  margin-top: 30px;
+  width: 300px;
+  height:30px;
+  font-size:1.3rem;
+  border:1px solid #021f69;
+  border-radius:10px;
+}
+
+.checker-box button{
+  height:40px;
+  width:120px;
+  margin-top:20px;
+  font-family:Verdana, sans-serif;
+  font-size:1rem;
+  font-weight:bold;
+  background-color:#ebd775;
+  color: black;
+  border:1px solid #ebd775;
+  border-radius:20px;
+  
+}
+
+.output{
+  background-color:white;
+  color: black;
+  margin: 30px 30vw auto 30vw;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.hide{
+ display:none; 
+}
+
